@@ -68,7 +68,7 @@ const devWebpackConfig = merge(baseWebpackConfig, {
       }
     ]),
     //分析打包体积
-    new BundleAnalyzerPlugin(),
+    // new BundleAnalyzerPlugin(),
   ]
 })
 

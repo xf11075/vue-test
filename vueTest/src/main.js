@@ -3,6 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import '@/assets/css/style.css'
 
 //element全部引入
 // import ElementUI from 'element-ui';
