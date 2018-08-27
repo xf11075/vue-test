@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>vue测试项目</h1>
+    <h1 style="text-align:center">vue测试项目</h1>
 
   </div>
 </template>
