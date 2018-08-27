@@ -11,8 +11,8 @@ import '@/assets/css/style.css'
 // Vue.use(ElementUI);
 
 //element按需引入
-import { Upload } from 'element-ui';
-Vue.use(Upload)
+// import { Upload } from 'element-ui';
+// Vue.use(Upload)
 
 Vue.config.productionTip = false
 
